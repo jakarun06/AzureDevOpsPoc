@@ -1,0 +1,1 @@
+C:\GIT\DevopsPoC\DevopsPoC\DevopsContainerService\obj\x64\Release\DevopsContainerService.sfproj.CoreCompileInputs.cache
